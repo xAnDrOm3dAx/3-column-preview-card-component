@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](image.png)
+![screenshot](screenshot.png)
 
 ### Links
 
